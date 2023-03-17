@@ -1,0 +1,13 @@
+C:\Users\Renat\source\repos\Fatal\Fatal\bin\Debug\Fatal.exe.config
+C:\Users\Renat\source\repos\Fatal\Fatal\bin\Debug\Fatal.exe.manifest
+C:\Users\Renat\source\repos\Fatal\Fatal\bin\Debug\Fatal.application
+C:\Users\Renat\source\repos\Fatal\Fatal\bin\Debug\Fatal.exe
+C:\Users\Renat\source\repos\Fatal\Fatal\bin\Debug\Fatal.pdb
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.Form1.resources
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.Properties.Resources.resources
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.csproj.GenerateResource.cache
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.csproj.CoreCompileInputs.cache
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.exe.manifest
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.application
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.exe
+C:\Users\Renat\source\repos\Fatal\Fatal\obj\Debug\Fatal.pdb
